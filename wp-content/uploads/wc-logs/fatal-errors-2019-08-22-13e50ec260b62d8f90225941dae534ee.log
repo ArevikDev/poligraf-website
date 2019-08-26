@@ -1,0 +1,2 @@
+2019-08-22T12:01:36+00:00 CRITICAL syntax error, unexpected '$image' (T_VARIABLE), expecting ',' or ';' in /Applications/MAMP/htdocs/woocommerce/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2512
+
