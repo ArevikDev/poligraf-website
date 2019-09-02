@@ -3,6 +3,76 @@
   <component name="ChangeListManager">
     <list default="true" id="f0b23502-1eaf-4ab7-a441-8a0dfa281919" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/apple-developer-merchantid-domain-association" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/alipay.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/amex.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/bancontact.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/credit-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/diners.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/discover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/eps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/giropay.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/ideal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/jcb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/maestro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/mastercard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/multibanco.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/p24.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sepa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sofort.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/visa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/wechat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/abstracts/abstract-wc-stripe-payment-gateway.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/class-wc-stripe-admin-notices.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/class-wc-stripe-privacy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-alipay-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-bancontact-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-eps-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-giropay-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-ideal-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-multibanco-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-p24-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-sepa-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-sofort-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-gateway-stripe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-apple-pay-registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-helper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-intent-controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-logger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-order-handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-payment-tokens.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-sepa-payment-token.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-webhook-handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-pre-orders-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-sepa-subs-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-subs-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/deprecated/class-wc-stripe-apple-pay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-alipay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bancontact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-eps.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-giropay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-ideal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-multibanco.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-p24.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sepa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sofort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-stripe-payment-request.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/languages/woocommerce-gateway-stripe.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/uninstall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterDir="false" />
@@ -25,10 +95,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10351" />
+            <state relative-caret-position="323">
+              <caret line="718" selection-start-line="718" selection-end-line="718" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="4617" column="34" selection-start-line="4617" selection-start-column="34" selection-end-line="4617" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/tickera-event-ticketing-system/includes/templates/shortcode-cart-contents.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="49" column="57" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="633" column="40" lean-forward="true" selection-start-line="633" selection-start-column="40" selection-end-line="633" selection-end-column="40" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -44,6 +152,7 @@
       <find>ajax_add_to_cart</find>
       <find>product-type-simple</find>
       <find>a hr</find>
+      <find>update_cart</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -53,6 +162,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/tickera-event-ticketing-system/includes/templates/shortcode-cart-contents.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" />
       </list>
     </option>
@@ -80,19 +190,6 @@
               <item name="woocommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="woocommerce" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="woocommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woocommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="woocommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woocommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="twentyseventeen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,15 +234,16 @@
       <updated>1566561185573</updated>
       <workItem from="1566561186759" duration="712000" />
       <workItem from="1566803813976" duration="46000" />
-      <workItem from="1566804117635" duration="464000" />
+      <workItem from="1566804117635" duration="3695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1222000" />
+    <option name="totallyTimeSpent" value="4453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -186,7 +284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" />
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13560">
@@ -203,7 +300,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10351" />
+        <state relative-caret-position="323">
+          <caret line="718" selection-start-line="718" selection-end-line="718" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/tickera-event-ticketing-system/includes/templates/shortcode-cart-contents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="49" column="57" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="633" column="40" lean-forward="true" selection-start-line="633" selection-start-column="40" selection-end-line="633" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="4617" column="34" selection-start-line="4617" selection-start-column="34" selection-end-line="4617" selection-end-column="34" />
+        </state>
       </provider>
     </entry>
   </component>
