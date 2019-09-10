@@ -3,80 +3,817 @@
   <component name="ChangeListManager">
     <list default="true" id="f0b23502-1eaf-4ab7-a441-8a0dfa281919" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/apple-developer-merchantid-domain-association" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/alipay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/amex.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/bancontact.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/credit-card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/diners.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/discover.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/eps.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/giropay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/ideal.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/jcb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/maestro.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/mastercard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/multibanco.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/p24.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sepa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/sofort.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/visa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/images/wechat.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/abstracts/abstract-wc-stripe-payment-gateway.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/class-wc-stripe-admin-notices.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/class-wc-stripe-privacy.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-alipay-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-bancontact-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-eps-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-giropay-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-ideal-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-multibanco-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-p24-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-sepa-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-sofort-settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-gateway-stripe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-apple-pay-registration.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-helper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-intent-controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-logger.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-order-handler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-payment-tokens.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-sepa-payment-token.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-webhook-handler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-pre-orders-compat.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-sepa-subs-compat.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-subs-compat.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/deprecated/class-wc-stripe-apple-pay.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-alipay.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bancontact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-eps.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-giropay.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-ideal.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-multibanco.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-p24.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sepa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sofort.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-stripe-payment-request.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/languages/woocommerce-gateway-stripe.pot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/uninstall.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/lang/tribe-common-de_DE.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/lang/tribe-common-de_DE.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/autoload_52.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/autoload_52.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/autoload_real_52.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/autoload_real_52.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/common/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/event-tickets.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/event-tickets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/lang/event-tickets-de_DE.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/lang/event-tickets-de_DE.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/src/Tribe/Attendees.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/src/Tribe/Attendees.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/event-tickets/src/Tribe/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/event-tickets/src/Tribe/Main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/class-mt-short-cart-widget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/css/mt-cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/css/mt-post.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/css/my-tickets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/css/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/gateways/offline.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/gateways/paypal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/images/tickets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/CHANGELOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/INSTALL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/bindings/tcpdf/qrcode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_10.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_11.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_12.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_13.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_14.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_15.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_16.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_17.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_18.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_19.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_20.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_21.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_22.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_23.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_24.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_25.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_26.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_27.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_28.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_29.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_30.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_31.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_32.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_33.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_34.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_35.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_36.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_37.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_38.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_39.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_40.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_8.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_9.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/frame_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_101_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_105_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_109_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_113_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_117_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_121_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_125_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_129_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_133_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_137_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_141_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_145_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_149_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_153_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_157_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_161_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_165_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_169_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_173_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_177_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_21_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_25_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_29_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_33_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_37_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_41_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_45_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_49_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_53_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_57_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_61_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_65_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_69_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_73_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_77_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_81_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_85_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_89_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_93_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_0/mask_97_0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_101_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_105_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_109_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_113_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_117_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_121_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_125_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_129_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_133_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_137_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_141_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_145_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_149_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_153_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_157_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_161_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_165_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_169_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_173_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_177_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_21_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_25_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_29_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_33_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_37_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_41_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_45_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_49_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_53_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_57_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_61_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_65_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_69_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_73_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_77_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_81_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_85_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_89_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_93_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_1/mask_97_1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_101_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_105_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_109_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_113_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_117_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_121_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_125_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_129_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_133_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_137_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_141_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_145_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_149_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_153_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_157_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_161_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_165_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_169_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_173_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_177_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_21_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_25_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_29_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_33_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_37_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_41_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_45_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_49_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_53_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_57_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_61_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_65_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_69_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_73_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_77_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_81_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_85_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_89_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_93_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_2/mask_97_2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_101_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_105_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_109_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_113_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_117_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_121_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_125_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_129_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_133_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_137_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_141_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_145_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_149_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_153_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_157_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_161_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_165_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_169_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_173_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_177_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_21_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_25_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_29_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_33_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_37_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_41_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_45_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_49_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_53_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_57_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_61_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_65_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_69_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_73_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_77_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_81_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_85_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_89_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_93_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_3/mask_97_3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_101_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_105_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_109_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_113_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_117_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_121_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_125_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_129_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_133_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_137_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_141_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_145_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_149_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_153_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_157_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_161_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_165_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_169_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_173_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_177_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_21_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_25_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_29_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_33_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_37_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_41_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_45_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_49_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_53_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_57_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_61_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_65_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_69_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_73_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_77_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_81_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_85_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_89_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_93_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_4/mask_97_4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_101_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_105_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_109_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_113_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_117_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_121_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_125_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_129_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_133_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_137_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_141_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_145_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_149_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_153_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_157_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_161_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_165_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_169_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_173_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_177_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_21_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_25_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_29_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_33_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_37_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_41_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_45_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_49_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_53_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_57_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_61_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_65_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_69_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_73_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_77_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_81_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_85_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_89_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_93_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_5/mask_97_5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_101_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_105_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_109_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_113_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_117_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_121_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_125_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_129_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_133_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_137_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_141_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_145_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_149_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_153_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_157_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_161_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_165_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_169_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_173_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_177_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_21_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_25_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_29_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_33_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_37_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_41_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_45_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_49_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_53_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_57_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_61_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_65_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_69_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_73_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_77_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_81_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_85_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_89_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_93_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_6/mask_97_6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_101_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_105_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_109_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_113_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_117_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_121_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_125_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_129_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_133_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_137_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_141_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_145_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_149_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_153_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_157_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_161_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_165_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_169_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_173_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_177_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_21_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_25_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_29_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_33_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_37_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_41_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_45_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_49_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_53_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_57_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_61_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_65_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_69_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_73_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_77_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_81_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_85_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_89_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_93_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/cache/mask_7/mask_97_7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/phpqrcode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrbitstream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrconfig.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrconst.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrencode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrimage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrinput.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrlib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrmask.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrrscode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrspec.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrsplit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/qrtools.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/tools/merge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/tools/merged_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/phpqrcode/tools/merged_header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/includes/qrcode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/jquery.addfields.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/jquery.functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/jquery.payment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/jquery.public.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/jquery.showfields.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/modernizr.mt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/js/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/lang/my-tickets-de_CH.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/lang/my-tickets-en_GB.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/lang/my-tickets-nb_NO.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/lang/my-tickets-pl_PL.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/lang/my-tickets.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/manual.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-ajax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-cart-handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-cpt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-fields-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-help.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-notifications.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-payment-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-payment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-processing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-receipt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-reports.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-shortcodes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-templating.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-ticketing-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/mt-tickets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/my-tickets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/bulk-tickets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/css/generic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/css/receipt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/css/ticket.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/opt-out.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/opt_out.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/receipt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/tickets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/templates/verify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/todo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/uninstall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/my-tickets/updates/EDD_SL_Plugin_Updater.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ploxel/css/ploxel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ploxel/js/ploxel_jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ploxel/ploxel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/ploxel/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin-builder-conditional-logic-core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin-builder-fields.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin-builder-providers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin-builder-setup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin-builder.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/admin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/builder.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/builder.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/challenge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/challenge.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/dashboard-widget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/dashboard-widget.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/entry-print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/entry-print.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/flatpickr.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/jquery-confirm.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/jquery.minicolors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/jquery.timepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/tooltipster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/wpforms-base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/css/wpforms-full.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/complete-guide-to-wpforms-settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/how-choose-right-form-field.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/how-create-gdpr-compliant-forms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/how-install-activate-wpforms-addons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/icon-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/icon-none.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/icon-partial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/plugin-mi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/plugin-om.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/plugin-smtp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/about/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-aweber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-campaign-monitor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-captcha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-conditional-logic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-constant-contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-conversational-forms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-drip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-form-abandonment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-form-pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-form-templates-pack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-geolocation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-getresponse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-mailchimp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-offline-forms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-post-submissions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-signatures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-stripe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-user-registration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icon-zapier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icons-locker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/addon-icons-surveys-polls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/builder-default-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cc-about-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cc-about-step1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cc-about-step2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cc-about-step3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cc-about-step4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/challenge/getting-started.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/challenge/popup-congrats.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/challenge/popup-contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/challenge/sullie-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cross-inverse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/flags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/icon-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/icon-provider-constant-contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/jquery.minicolors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/placeholder-200x125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/recaptcha-placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/settings-captcha-addon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/settings-email-html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/settings-email-plaintext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/submit-spin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/sullie-alt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/sullie-vc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/sullie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-feature-icon-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-testimonial-bill.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-testimonial-david.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/images/welcome-video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin-builder-conditional-logic-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin-builder-providers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin-builder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin-editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/admin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/choices.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/builder/providers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/builder/providers.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/builder/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/builder/templates.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-admin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-builder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-builder.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-core.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-embed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/challenge/challenge-embed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/gutenberg/formselector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/components/admin/gutenberg/formselector.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/flatpickr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.conditionals.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.inputmask.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.insert-at-caret.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.jquery-confirm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.matchHeight-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.minicolors.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.payment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.serialize-object.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.timepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.tooltipster.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/list.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/mailcheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/wpforms-confirmation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/assets/js/wpforms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/autoloader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/ajax-actions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/class-builder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-analytics.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-fields.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-payments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-providers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/builder/panels/class-setup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-about.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-am-deactivation-survey.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-am-notification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-editor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-importers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-install-skin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-notices.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-review.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-tools.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/class-welcome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/importers/class-base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/importers/class-contact-form-7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/importers/class-install-silent-skin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/importers/class-ninja-forms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/importers/class-pirate-forms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/importers/interface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/overview/class-overview-table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/overview/class-overview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/admin/settings-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/analytics/class-base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/analytics/class-monster-insights.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-conditional-logic-core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-fields.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-frontend.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-providers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-smart-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-templates.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/class-widget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/emails/class-emails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/emails/templates/body-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/emails/templates/default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/emails/templates/field-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/emails/templates/footer-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/emails/templates/header-default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-checkbox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-email.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-gdpr-checkbox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-name.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-number.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-radio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-select.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/fields/class-textarea.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/integrations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/providers/class-base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/providers/class-constant-contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/templates/class-base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/templates/class-blank.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/templates/class-contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/templates/class-subscribe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/includes/templates/class-suggestion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/languages/wpforms-lite-de_DE.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/languages/wpforms-lite-de_DE.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/languages/wpforms-lite-fr_FR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/languages/wpforms-lite-fr_FR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/languages/wpforms-lite.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/loco.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/css/vendor/intl-tel-input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/css/vendor/intl-tel-input.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/images/vendor/intl-tel-input-flags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/images/vendor/intl-tel-input-flags@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/admin/builder-education.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/admin/builder-education.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/admin/dashboard-widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/admin/dashboard-widget.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/vendor/jquery.intl-tel-input-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/vendor/jquery.intl-tel-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/vendor/jquery.intl-tel-input.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/js/wpforms-conditional-logic-fields.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/scss/vendor/intl-tel-input.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/assets/scss/vendor/partials/_intl-tel-input-sprite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/ajax-actions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/class-addons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/class-license.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/class-updater.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/class-upgrades.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/entries/class-entries-export.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/entries/class-entries-list-table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/entries/class-entries-list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/admin/entries/class-entries-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/class-conditional-logic-fields.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/class-db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/class-entry-fields.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/class-entry-meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/class-entry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-address.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-date-time.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-divider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-file-upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-hidden.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-page-break.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-payment-checkbox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-payment-credit-card.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-payment-dropdown.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-payment-multiple.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-payment-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-payment-total.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-phone.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-rating.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/fields/class-url.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/payments/class-payment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/payments/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/templates/class-donation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/templates/class-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/includes/templates/class-request-quote.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-de_DE.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-de_DE.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-es_ES.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-es_ES.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-fr_FR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-fr_FR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-hi_IN.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-hi_IN.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-it_IT.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-it_IT.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-ja.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-ja.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-pt_BR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-pt_BR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-ru_RU.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms-ru_RU.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/languages/wpforms.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/pro/wpforms-pro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Admin/Challenge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Admin/Loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Forms/Loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Forms/Preview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Integrations/Gutenberg/FormSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Integrations/IntegrationInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Integrations/Loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Integrations/WPMailSMTP/Notifications.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Pro/Admin/Builder/Education.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Pro/Admin/DashboardWidget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Pro/Admin/Entries/PrintPreview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Settings/FormBuilder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Settings/FormBuilderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Settings/PageIntegrations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Settings/PageIntegrationsInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/Providers/Provider/Status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/src/WPForms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/uninstall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms/wpforms.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/GeoLite2-Country.mmdb" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/GeoLite2-Country.mmdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,20 +832,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="718" selection-start-line="718" selection-end-line="718" />
+            <state relative-caret-position="339">
+              <caret line="671" column="7" lean-forward="true" selection-start-line="671" selection-start-column="7" selection-end-line="671" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="4617" column="34" selection-start-line="4617" selection-start-column="34" selection-end-line="4617" selection-end-column="34" />
+            <state relative-caret-position="270">
+              <caret line="1546" column="7" selection-start-line="1546" selection-start-column="7" selection-end-line="1546" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -116,7 +853,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/tickera-event-ticketing-system/includes/templates/shortcode-cart-contents.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="735">
               <caret line="49" column="57" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
             </state>
           </provider>
@@ -134,8 +871,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="633" column="40" lean-forward="true" selection-start-line="633" selection-start-column="40" selection-end-line="633" selection-end-column="40" />
+            <state relative-caret-position="9240">
+              <caret line="633" column="40" selection-start-line="633" selection-start-column="40" selection-end-line="633" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -164,6 +901,7 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/tickera-event-ticketing-system/includes/templates/shortcode-cart-contents.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
       </list>
     </option>
   </component>
@@ -234,18 +972,19 @@
       <updated>1566561185573</updated>
       <workItem from="1566561186759" duration="712000" />
       <workItem from="1566803813976" duration="46000" />
-      <workItem from="1566804117635" duration="3695000" />
+      <workItem from="1566804117635" duration="5147000" />
+      <workItem from="1568018276228" duration="1005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4453000" />
+    <option name="totallyTimeSpent" value="6910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25965664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,24 +1023,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13560">
-          <caret line="911" column="3" selection-start-line="911" selection-start-column="3" selection-end-line="911" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="313" lean-forward="true" selection-start-line="313" selection-end-line="313" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="718" selection-start-line="718" selection-end-line="718" />
         </state>
       </provider>
     </entry>
@@ -312,9 +1037,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13560">
+          <caret line="911" column="3" selection-start-line="911" selection-start-column="3" selection-end-line="911" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/tickera-event-ticketing-system/includes/templates/shortcode-cart-contents.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="735">
           <caret line="49" column="57" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
         </state>
       </provider>
@@ -328,15 +1060,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="633" column="40" lean-forward="true" selection-start-line="633" selection-start-column="40" selection-end-line="633" selection-end-column="40" />
+        <state relative-caret-position="9240">
+          <caret line="633" column="40" selection-start-line="633" selection-start-column="40" selection-end-line="633" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="4617" column="34" selection-start-line="4617" selection-start-column="34" selection-end-line="4617" selection-end-column="34" />
+        <state relative-caret-position="270">
+          <caret line="1546" column="7" selection-start-line="1546" selection-start-column="7" selection-end-line="1546" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="671" column="7" lean-forward="true" selection-start-line="671" selection-start-column="7" selection-end-line="671" selection-end-column="7" />
         </state>
       </provider>
     </entry>
